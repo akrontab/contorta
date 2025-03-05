@@ -16,7 +16,9 @@ Persevere. The world will be better for it. You aren't alone.
 
 Let art have equal weight to the science and process. Make mistakes, fail and come up short. Art allows that.
 
-### Ian MacKaye, Henry Rollins, Hardcore Punk
+### Ian MacKaye and Hardcore Punk
+
+Fugazi was offered to headline Lalapaloza but MacKaye rejected it because of the high ticket cost. 
 
 ### Veilid and The cDc
 
@@ -27,6 +29,8 @@ DEF CON 32 - Disenshittify or die! How hackers can seize the means of computatio
 ### Winn Schwartau
 
 DEF CON 30 - Winn Schwartau - My First Hack Was in 1958: <https://www.youtube.com/watch?v=kibTTcIRXHg>
+
+Bob Marley and the Wailers stadium show. Used a fire extinguster on a transformer to cool it.
 
 ## Notable Hacks
 
