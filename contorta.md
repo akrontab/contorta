@@ -2,9 +2,13 @@
 title: contorta
 ---
 
+## Call Index
+
+<https://defcon.org/html/defcon-33/dc-33-cfi.html>
+
 ## What
 
-As we broach into the mid 21st century we are at a inflection point in so many different ways. As technologists, and as hackers we have lost our way. Can we still channel the DIY spirit of the late 20th century punk rock scene? Is the maker movement still alive and viable? Is the zeitgeist and political climate of our time  calling us back? Technology is not apolitical... What will you do?
+As we broach into the mid 21st century we are at a inflection point in so many different ways. As technologists, and as hackers we have lost our way. Can we still channel the DIY spirit of late 20th century punk rock? Is the maker movement still alive and viable? Is the zeitgeist and political climate of our time  calling us back? Technology is political wheather we like it or not... What will you do?
 
 ## Inspiration
 
@@ -18,7 +22,7 @@ Let art have equal weight to the science and process. Make mistakes, fail and co
 
 ### Ian MacKaye and Hardcore Punk
 
-Fugazi was offered to headline Lalapaloza but MacKaye rejected it because of the high ticket cost. 
+Fugazi set itself apart from most other bands by never playing a show with high-priced tickets. Fugazi was offered to headline Lollapalooza but MacKaye and Fugazi rejected it because of the high ticket cost.
 
 ### Veilid and The cDc
 
@@ -30,7 +34,11 @@ DEF CON 32 - Disenshittify or die! How hackers can seize the means of computatio
 
 DEF CON 30 - Winn Schwartau - My First Hack Was in 1958: <https://www.youtube.com/watch?v=kibTTcIRXHg>
 
-Bob Marley and the Wailers stadium show. Used a fire extinguster on a transformer to cool it.
+Bob Marley and the Wailers stadium show. Used a fire extinguster on a transformer to cool it. When shit hits the fan, what will you do?
+
+### Puppy hacker polycule and the Lexipol leak
+
+<https://ddosecrets.com/article/lexipolleaks>
 
 ## Notable Hacks
 
