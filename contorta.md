@@ -26,6 +26,8 @@ Fugazi set itself apart from most other bands by never playing a show with high-
 
 ### Veilid and The cDc
 
+building decentralized infrastructure for building apps where user data isn't monetized by big tech.
+
 ### Cory Doctorow
 
 DEF CON 32 - Disenshittify or die! How hackers can seize the means of computation - Cory Doctorow: <https://www.youtube.com/watch?v=4EmstuO0Em8>
@@ -45,4 +47,8 @@ Bob Marley and the Wailers stadium show. Used a fire extinguster on a transforme
 Max Headroom incident
 
 Marconi Radio Hijack
+
+## brain dump
+
+the turn of the century was an amazing time for technology. the Internet was alive and thriving (sans the dot com bust) and hacker groups were experiencing a golden age (cDc and l0pht). fast forward a quarter of a century and tech oligarchs run the show from their walled gardens and even individual expression and thought is stuck behind a paywall (medium and other garbage blogging platforms). wage slaves sell their expertise and labor while tech communities are driven by chasing certifications and the all mighty dollar. we've lost our edge and drive towards the finding limits of the systems around us. bug hunting is dominated by bug bounties and getting paid. money has declawed the political threat of hackers and economic slavery has replaced pure curiosity. 
 
