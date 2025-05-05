@@ -65,3 +65,6 @@ Has the evolution of what hacking is today to what it was 30 years ago been all 
 A tactic used by content troll farms is to flood the zone. Leveraging Generative AI we can come up novel content with a simple prompt and away it goes. We know how to call APIs and automate usage of Facebook and Twitter. We find ways around API usage restrictions. We can fight back against the misinformation and do it in a scalable and automated fashion. USE THE TOOLS WE HAVE AVAILABLE! Generate content, find the facebook groups spreading misinformation and endlessly hound them.
 
 Zine culture was strong in the 1980s and 1990s in the punk rock scene. It was a form of expression for marginalized and groups on the fringes of society. One of the most famous hacker zines is 2600, and to this day it is still thriving and being published. 2600 groups around the country still meet on the first Friday of each month, and 2600 Off The Wall and Off The Hook is still being broadcast on WUSB. This is great but we need more! Phrack, POC || GTFO, and 2600 can only do so much.
+
+
+TDR Man in the arena - Daring greatly quote
